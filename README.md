@@ -12,26 +12,10 @@ Help save them and change history!
 
 ## Anggota Kelompok
 
-- Azizi Novan Maulana (235150209111)
+- Azizi Novan Maulana
 - Muhammad Haris Firmansyah
 - Roziqul Abidin 
 - Diagne Alya Fidian
 - Nurul Annisa Murnastiti
 - Hana Tiara Fadhilah
 
-## Instalasi
-
-Petunjuk untuk menginstal dan menjalankan proyek di lingkungan lokal Anda.
-
-### Prasyarat
-
-- [Python](https://www.python.org/downloads/) 3.x
-- Paket-paket lain yang diperlukan (sebutkan di sini)
-
-### Langkah-langkah Instalasi
-
-1. Clone repositori ini
-
-   ```bash
-   git clone https://github.com/username/nama-proyek.git
-   cd nama-proyek
