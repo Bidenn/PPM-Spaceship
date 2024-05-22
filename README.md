@@ -12,10 +12,10 @@ Help save them and change history!
 
 ## Anggota Kelompok
 
-- Azizi Novan Maulana
-- Muhammad Haris Firmansyah
-- Roziqul Abidin 
-- Diagne Alya Fidian
-- Nurul Annisa Murnastiti
-- Hana Tiara Fadhilah
+- Azizi Novan Maulana (235150209111003)
+- Muhammad Haris Firmansyah (235150209111006)
+- Roziqul Abidin (235150209111010)
+- Diagne Alya Fidian (235150209111009)
+- Nurul Annisa Murnastiti (235150209111008)
+- Hana Tiara Fadhilah (235150209111001)
 
